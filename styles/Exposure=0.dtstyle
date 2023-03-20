@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>Exposure=0</name><description></description></info><style><plugin><num>144</num><module>6</module><operation>exposure</operation><op_params>00000000000080b93333333f00004842000080c001000000</op_params><enabled>1</enabled><blendop_params>gz10eJxjYGBgYAFiCQYYOOHEgAZY0QVwggZ7CB6pfOygYtaVAyCMi08IAAB/xiOk</blendop_params><blendop_version>11</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name></plugin></style></darktable_style>

@@ -1,0 +1,128 @@
+/* Enter CSS theme tweaks here */
+
+#film_sim_panel_provia_button,
+#film_sim_panel_astia_button,
+#film_sim_panel_velvia_button,
+#film_sim_panel_classic_chrome_button,
+#film_sim_panel_pro_neg_high_button,
+#film_sim_panel_pro_neg_std_button,
+#film_sim_panel_eterna_button,
+#film_sim_panel_ricoh_button,
+#film_sim_panel_positive_film_button,
+#film_sim_panel_negative_film_button,
+#film_sim_panel_vivid_button,
+#film_sim_panel_retro_button,
+#film_sim_panel_shadows_plus_one_button,
+#film_sim_panel_shadows_zero_button,
+#film_sim_panel_shadows_minus_one_button,
+#film_sim_panel_shadows_minus_two_button,
+#film_sim_panel_exposure_plus_one_button,
+#film_sim_panel_exposure_plus_half_button,
+#film_sim_panel_exposure_zero_button,
+#film_sim_panel_exposure_minus_half_button,
+#film_sim_panel_dr100_button,
+#film_sim_panel_dr200_button,
+#film_sim_panel_dr400_button {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgba(0,0,0,0);
+  border-color: rgba(0,0,0,0);
+  margin: 5px; /* in px, since we'll set font-size to 0 later */
+  min-height: 64px;
+  min-width: 64px;
+  font-size: 4pt;
+}
+
+#film_sim_panel_provia_button {
+  background-image: url('icons/provia.svg');
+  font-size: 0pt; /* hide text */
+}
+#film_sim_panel_astia_button {
+  background-image: url('icons/astia.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_velvia_button {
+  background-image: url('icons/velvia.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_classic_chrome_button {
+  background-image: url('icons/classic chrome.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_pro_neg_high_button {
+  background-image: url('icons/pro neg high.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_pro_neg_std_button {
+  background-image: url('icons/pro neg std.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_eterna_button {
+  background-image: url('icons/eterna.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_ricoh_button {
+  background-image: url('icons/ricoh.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_positive_film_button {
+  background-image: url('icons/positive film.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_negative_film_button {
+  background-image: url('icons/negative film.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_vivid_button {
+  background-image: url('icons/vivid.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_retro_button {
+  background-image: url('icons/retro.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_dr100_button {
+  background-image: url('icons/DR100.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_dr200_button {
+  background-image: url('icons/DR200.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_dr400_button {
+  background-image: url('icons/DR400.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_shadows_minus_two_button {
+  background-image: url('icons/shadows-2.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_shadows_minus_one_button {
+  background-image: url('icons/shadows-1.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_shadows_zero_button {
+  background-image: url('icons/shadows=0.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_shadows_plus_one_button {
+  background-image: url('icons/shadows+1.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_exposure_plus_one_button {
+  background-image: url('icons/exposure+1.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_exposure_plus_half_button {
+  background-image: url('icons/exposure+0.5.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_exposure_zero_button {
+  background-image: url('icons/exposure=0.svg');
+  font-size: 0pt;
+}
+#film_sim_panel_exposure_minus_half_button {
+  background-image: url('icons/exposure-0.5.svg');
+  font-size: 0pt;
+}

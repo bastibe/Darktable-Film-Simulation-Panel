@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>Shadows-2</name><description></description></info><style><plugin><num>51</num><module>1</module><operation>rgbcurve</operation><op_params>gz08eJxjYICA++cn2yoIadlduhtrp31jql30rst2E8Wv2y3/X28PwgwDDAaLO3CBweo+ViBmwoJBgBGI2YAYAHEyGYo=</op_params><enabled>1</enabled><blendop_params>gz10eJxjYGBgYAFiCQYYOOHEgAZY0QVwggZ7CB6pfOygYtaVAyCMi08IAAB/xiOk</blendop_params><blendop_version>11</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name></plugin></style></darktable_style>
