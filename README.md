@@ -44,7 +44,9 @@ The styles are meant to be applied after Sigmoid with 1.5 Contrast, 0 skew, per-
 
 ## Known Issues
 
-In some versions of Darktable, applying a style in the darkroom crashes darktable. The reasons for this are as of yet unknown. A [bug report](https://github.com/darktable-org/darktable/issues/13985) has been filed. You can apply the styles without issue from the styles menu, or in the lighttable panel. It seems to be related to the CSS somehow.
+In some versions of Darktable, applying a style using `darktable.styles.apply` in the darkroom crashes darktable. The reasons for this are as of yet unknown. A [bug report](https://github.com/darktable-org/darktable/issues/13985) has been filed. You can apply the styles without issue from the styles menu, or in the lighttable panel.
+
+The Film Simulation Panel currently works around this by using the `darktable.gui.action` interface instead if in the darkroom view. This might behave strangely in edge cases, such as multiple images in the current selection, or if the style names contain untested characters (`/` is appropriately escaped, but others might need escaping as well).
 
 ## Background
 

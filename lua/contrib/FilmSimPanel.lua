@@ -9,10 +9,22 @@ local function find_style(style_name)
     return nil
 end
 
+
 local function apply_style(style_name, image)
     local style = find_style(style_name)
     darktable.print("applying style " .. style_name)
-    darktable.styles.apply(style, image)
+    if darktable.gui.current_view() == darktable.gui.views.lighttable then
+        darktable.styles.apply(style, image)
+    elseif darktable.gui.current_view() == darktable.gui.views.darkroom then
+        -- for some reason, darktable.styles.apply crashes darktable
+        -- half the time. Thus, use darktable.gui.action instead (and
+        -- escape forbidden characters in the style name)
+        darktable.gui.action("global/styles/" .. style_name:gsub("/", "-"), 0, "", "", 1.0)
+    else
+        darktable.print_error("[FilmSimPanel] could not apply style in " ..
+                              tostring(darktable.gui.current_view) .. " view")
+        return
+    end
     darktable.print_log("[FilmSimPanel] applying style " .. style_name)
 end
 
