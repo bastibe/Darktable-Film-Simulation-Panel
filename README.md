@@ -38,9 +38,30 @@ Adding a new button to the Film Simulations panel involves:
 
 ## Installation
 
-Copy the contents of the repository (excluding *README.md* and *screenshot.png* and *styles_source*, although they won't hurt) to your darktable configuration directory (e.g. *~/.config/darktable* or *~/.var/app/org.darktable.Darktable/config/darktable*), activate the FilmSimPanel lua script, and you should be good to go.
+Start darktable and use import action of the styles panel in the lighttable view.
+Select all files in the *styles* directory of this repository for import.
 
-The styles are meant to be applied after Sigmoid with 1.5 Contrast, 0 skew, per-color processing with 50% preserve hue in darktable 4.2.1.
+After that, the styles should be already applicable.
+
+Close darktable (or make sure you restart the application at the end of installation).
+
+The directories *icons* and *lua* must be copied to darktable configuration directory (e.g. *~/.config/darktable*, *~/.var/app/org.darktable.Darktable/config/darktable* or *C:\Users\\\<username>\AppData\Local\darktable*).
+
+If you have changed *user.css* e.g. in the general settings tab of darktable preferences, you have to add the content of *user.css* manually.
+
+Otherwise, the unmodified standard *user.css* in darktable configuration directory can be overwritten with the file *user.css* of this repositoy.
+
+You may still need to create *luarc* in the configuration directory.
+
+Finally, activate the FilmSimPanel lua script by adding this to *luarc*:
+
+> require "contrib/FilmSimPanel"
+
+(This description should work for darktable 4, but at the time of writing has only been tested with darktable 4.4.2 on the current Linux Arch OS.)
+
+## Usage
+
+The styles are meant to be applied after Sigmoid with 1.5 Contrast, 0 skew, per-color processing with 50% preserve hue (as tested in darktable 4.2.1).
 
 ## Known Issues
 
