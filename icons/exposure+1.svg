@@ -1,93 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="512"
-   height="512"
-   viewBox="0 0 512 512"
-   version="1.1"
-   id="svg5"
-   xml:space="preserve"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="exposure+1.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="2.0058594"
-     inkscape:cx="255.50146"
-     inkscape:cy="219.60662"
-     inkscape:window-width="1920"
-     inkscape:window-height="2107"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" /><defs
-     id="defs2" /><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"><rect
-       style="fill:#1f1f1f;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="rect25262"
-       x="42.266068"
-       y="75.699821"
-       width="0"
-       height="0"
-       rx="512"
-       ry="512" /><rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="rect25474"
-       width="512"
-       height="512"
-       x="2.218922e-06"
-       y="3.0343815e-06"
-       rx="0"
-       ry="0" /><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:207.381px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-12.2034px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-       x="485.48593"
-       y="281.2193"
-       id="text3078-3-4-6-5"
-       transform="scale(0.82706003,1.2091021)"><tspan
-         sodipodi:role="line"
-         id="tspan5451-9-0-62"
-         x="485.48593"
-         y="281.2193"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:207.381px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-dasharray:none">1</tspan></text><g
-       id="g1055"><rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         id="rect25862"
-         width="310.56839"
-         height="327.29562"
-         x="13.840064"
-         y="92.352188"
-         ry="15.7678" /></g><path
-       d="m 339.32925,267.02871 v -17.85399 h 75.13741 v 17.85399 z"
-       style="font-size:250.445px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';letter-spacing:-60px;fill:#ffffff;stroke:#000000;stroke-width:0;fill-opacity:1"
-       id="path26452" /><path
-       d="m 385.82495,295.67042 h -17.85399 v -75.13741 h 17.85399 z"
-       style="font-size:250.445px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';letter-spacing:-60px;fill:#ffffff;stroke:#000000;stroke-width:0;fill-opacity:1"
-       id="path26452-6" /><path
-       id="rect2816"
-       style="stroke:#ffffff;stroke-width:3.02362;fill:#000000;fill-opacity:1"
-       d="M 32.478199,116.29649 H 302.28295 C 160.03987,258.53957 189.74528,236.83486 32.478199,394.10194 Z"
-       sodipodi:nodetypes="cccc" /><path
-       d="m 68.228596,207.04184 v -17.85399 h 75.137414 v 17.85399 z"
-       style="font-size:250.445px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';letter-spacing:-60px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="path26452-3" /><path
-       d="M 114.7243,235.68355 H 96.870306 V 160.54614 H 114.7243 Z"
-       style="font-size:250.445px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';letter-spacing:-60px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="path26452-6-6" /><path
-       d="m 190.35941,326.66842 v -17.854 h 75.13742 v 17.854 z"
-       style="font-size:250.445px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';letter-spacing:-60px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="path26452-3-7" /></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="Layer-1" serif:id="Layer 1" transform="matrix(0.09375,0,0,0.09375,0,0)">
+        <rect id="rect25474" x="0" y="0" width="512" height="512"/>
+        <g transform="matrix(0.82706,0,0,1.2091,401.526,340.023)">
+            <g id="text3078-3-4-6-5">
+                <text x="0px" y="0px" style="font-family:'Helvetica';font-size:207.381px;fill:white;">1</text>
+            </g>
+        </g>
+        <g id="g1055">
+            <rect id="rect25862" x="13.84" y="92.352" width="310.568" height="327.296" style="fill:white;"/>
+        </g>
+        <rect id="path26452" x="339.329" y="249.175" width="75.137" height="17.854" style="fill:white;fill-rule:nonzero;"/>
+        <rect id="path26452-6" x="367.971" y="220.533" width="17.854" height="75.137" style="fill:white;fill-rule:nonzero;"/>
+        <path id="rect2816" d="M32.478,116.296L302.283,116.296C160.04,258.54 189.745,236.835 32.478,394.102L32.478,116.296Z" style="fill-rule:nonzero;stroke:white;stroke-width:3.02px;"/>
+        <rect id="path26452-3" x="68.229" y="189.188" width="75.137" height="17.854" style="fill:white;fill-rule:nonzero;"/>
+        <rect id="path26452-6-6" x="96.87" y="160.546" width="17.854" height="75.137" style="fill:white;fill-rule:nonzero;"/>
+        <rect id="path26452-3-7" x="190.359" y="308.814" width="75.137" height="17.854" style="fill-rule:nonzero;"/>
+    </g>
+</svg>

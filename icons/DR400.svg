@@ -1,99 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="512"
-   height="512"
-   viewBox="0 0 512 512"
-   version="1.1"
-   id="svg5"
-   xml:space="preserve"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="DR400.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="2.0058594"
-     inkscape:cx="246.52775"
-     inkscape:cy="218.111"
-     inkscape:window-width="1876"
-     inkscape:window-height="2107"
-     inkscape:window-x="5716"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" /><defs
-     id="defs2" /><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"><rect
-       style="fill:#1f1f1f;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="rect25262"
-       x="42.266068"
-       y="75.699821"
-       width="0"
-       height="0"
-       rx="512"
-       ry="512" /><rect
-       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="rect25474"
-       width="512"
-       height="512"
-       x="2.218922e-06"
-       y="3.0343815e-06"
-       rx="0"
-       ry="0" /><g
-       id="g26022"
-       transform="translate(0,-0.34095545)"><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="18.408386"
-         y="233.43896"
-         id="text3078-3-4"
-         transform="scale(0.9352949,1.0691815)"><tspan
-           sodipodi:role="line"
-           id="tspan5451-9"
-           x="18.408386"
-           y="233.43896"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:186.667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none">D</tspan></text><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="18.408386"
-         y="382.15079"
-         id="text3078-3-4-9"
-         transform="scale(0.9352949,1.0691815)"><tspan
-           sodipodi:role="line"
-           id="tspan5451-9-3"
-           x="18.408386"
-           y="382.15079"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:186.667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none">R</tspan></text></g><g
-       id="g26027"
-       transform="translate(0,-4.6610107)"><rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         id="rect25862"
-         width="310.56839"
-         height="327.29562"
-         x="172.18573"
-         y="97.013199"
-         ry="15.7678" /><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="198.99986"
-         y="302.03711"
-         id="text3078-3-4-6"
-         transform="scale(0.9352949,1.0691815)"><tspan
-           sodipodi:role="line"
-           id="tspan5451-9-0"
-           x="198.99986"
-           y="302.03711"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fefefe;fill-opacity:1;stroke-width:0;stroke-dasharray:none">400</tspan></text></g></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Layer-1" serif:id="Layer 1" transform="matrix(0.09375,0,0,0.09375,0,0)">
+        <rect id="rect25474" x="0" y="0" width="512" height="512" style="fill:rgb(254,254,254);"/>
+        <g id="g26022" transform="matrix(1,0,0,1,0,-0.340955)">
+            <g transform="matrix(0.935295,0,0,1.06918,17.2173,249.589)">
+                <g id="text3078-3-4">
+                    <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:186.667px;">D</text>
+                </g>
+            </g>
+            <g transform="matrix(0.935295,0,0,1.06918,17.2173,408.589)">
+                <g id="text3078-3-4-9">
+                    <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:186.667px;">R</text>
+                </g>
+            </g>
+        </g>
+        <g id="g26027" transform="matrix(1,0,0,1,0,-4.66101)">
+            <rect id="rect25862" x="172.186" y="97.013" width="310.568" height="327.296"/>
+            <g transform="matrix(0.935295,0,0,1.06918,186.124,322.932)">
+                <g id="text3078-3-4-6">
+                    <text x="0px" y="0px" style="font-family:'Helvetica';font-size:160px;fill:rgb(254,254,254);">400</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,141 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="512"
-   height="512"
-   viewBox="0 0 512 512"
-   version="1.1"
-   id="svg5"
-   xml:space="preserve"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="retro.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="2.0058594"
-     inkscape:cx="254.25511"
-     inkscape:cy="259.98831"
-     inkscape:window-width="1876"
-     inkscape:window-height="2107"
-     inkscape:window-x="5716"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" /><defs
-     id="defs2"><linearGradient
-       inkscape:collect="always"
-       id="linearGradient5472"><stop
-         style="stop-color:#513111;stop-opacity:1;"
-         offset="0"
-         id="stop5468" /><stop
-         style="stop-color:#503111;stop-opacity:1;"
-         offset="0.28847668"
-         id="stop5476" /><stop
-         style="stop-color:#663e14;stop-opacity:1;"
-         offset="1"
-         id="stop5470" /></linearGradient><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5472"
-       id="linearGradient5474"
-       x1="0.29138217"
-       y1="256.27239"
-       x2="154.28991"
-       y2="256.27239"
-       gradientUnits="userSpaceOnUse" /></defs><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"><rect
-       style="fill:#c6c2b6;fill-opacity:1;stroke-width:1.16813"
-       id="rect1066"
-       width="512"
-       height="148"
-       x="0"
-       y="0" /><rect
-       style="fill:#000000;fill-opacity:1;stroke-width:2.31329"
-       id="rect231-7"
-       width="512"
-       height="198"
-       x="0"
-       y="148" /><rect
-       style="fill:#505050;fill-opacity:1;stroke-width:0.374017"
-       id="rect1174-3"
-       width="512"
-       height="2"
-       x="0"
-       y="148" /><rect
-       style="fill:#c6c2b6;fill-opacity:1;stroke-width:0.936167"
-       id="rect1228"
-       width="512"
-       height="164"
-       x="0"
-       y="348" /><rect
-       style="fill:#4f4f4f;fill-opacity:1;stroke-width:0.374017"
-       id="rect1174"
-       width="512"
-       height="2"
-       x="0"
-       y="346" /><path
-       id="rect3653"
-       style="fill:url(#linearGradient5474);stroke:#000000;stroke-width:0;fill-opacity:1"
-       d="M 0.29138267,0.97072786 H 154.28991 c 0,105.73217214 -35.3481,185.14423214 -35.3481,277.18439214 l 1.31427,233.41894 -119.96469733,0 z"
-       sodipodi:nodetypes="cccccc" /><rect
-       style="fill:#afafaf;fill-opacity:1;stroke-width:0.766705"
-       id="rect231"
-       width="96"
-       height="116"
-       x="16"
-       y="16" /><text
-       xml:space="preserve"
-       style="font-size:42.6667px;fill:#010100;fill-opacity:1"
-       x="128.76492"
-       y="411.75018"
-       id="text2822-6"><tspan
-         sodipodi:role="line"
-         id="tspan2820-7"
-         x="128.76492"
-         y="411.75018"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010100;fill-opacity:1">ISO</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:149.333px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"
-       x="189.58537"
-       y="488.79532"
-       id="text2978-5"><tspan
-         sodipodi:role="line"
-         id="tspan2976-5"
-         x="189.58537"
-         y="488.79532"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:149.333px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">AUTO</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:154.79px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-10.2813px;fill:#d5d5d5;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-       x="143.61903"
-       y="311.75418"
-       id="text3078-3"
-       transform="scale(1.0393387,0.96215024)"><tspan
-         sodipodi:role="line"
-         id="tspan5451"
-         x="143.61903"
-         y="311.75418"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:154.79px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d5d5d5;fill-opacity:1;stroke-width:0;stroke-dasharray:none">Retro</tspan></text><g
-       id="g7374"
-       transform="matrix(1.9442927,0,0,1.9333097,308,28.001063)"
-       style="fill:#000000;fill-opacity:1"><path
-         fill="#ffffff"
-         d="m 25.92,27.74 v -5.92 h 18.16 v 18.87 c 0,1.72 -1.33,2.45 -2.86,2.73 a 77.9,77.9 0 0 1 -8.47,1.17 C 30.48,44.77 28.14,45 21.98,45 12.71,45 0,39.81 0,23.06 0,6.31 12.71,0 22,0 36.14,-0.06 43.9,4.79 44,14.83 h -8.87 c 0,-5.37 -5.75,-8.39 -11.27,-8.39 -8.88,0 -15,7.1 -15,16.62 0,9.52 6.14,16.34 15,16.34 a 66,66 0 0 0 11.2,-0.94 V 27.74 Z"
-         id="path7363"
-         style="fill:#000000;fill-opacity:1" /><path
-         fill="#ffffff"
-         d="M 59.55,44.13 H 50.89 V 0.84 h 18.92 c 13,0 17.4,6 17.4,11.14 0,5.48 -2.14,9.37 -5.63,10.68 v 0.12 c 4.31,0.86 5.18,5 7.09,13.26 a 42.65,42.65 0 0 0 2.88,8.1 H 80.76 a 75,75 0 0 1 -2,-8.4 c -1.25,-5.91 -2,-9.12 -5.37,-9.13 H 59.55 Z m 0,-24 h 9.67 c 6.28,0 9,-2.68 8.77,-7.53 C 77.85,9.28 74.77,7.36 69.22,7.36 h -9.67 z"
-         id="path7365"
-         style="fill:#000000;fill-opacity:1" /></g></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Layer-1" serif:id="Layer 1" transform="matrix(0.09375,0,0,0.09375,0,0)">
+        <rect id="rect1066" x="0" y="0" width="512" height="148" style="fill:rgb(198,194,182);"/>
+        <rect id="rect231-7" x="0" y="148" width="512" height="198"/>
+        <rect id="rect1174-3" x="0" y="148" width="512" height="2" style="fill:rgb(80,80,80);"/>
+        <rect id="rect1228" x="0" y="348" width="512" height="164" style="fill:rgb(198,194,182);"/>
+        <rect id="rect1174" x="0" y="346" width="512" height="2" style="fill:rgb(79,79,79);"/>
+        <path id="rect3653" d="M0.291,0.971L154.29,0.971C154.29,106.703 118.942,186.115 118.942,278.155L120.256,511.574L0.291,511.574L0.291,0.971Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+        <rect id="rect231" x="16" y="16" width="96" height="116" style="fill:rgb(175,175,175);"/>
+        <g transform="matrix(1.03934,0,0,0.96215,149.269,299.954)">
+            <g id="text3078-3">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:154.79px;fill:rgb(213,213,213);">R<tspan x="95.87px 166.042px 201.674px 245.998px " y="0px 0px 0px 0px ">etro</tspan></text>
+            </g>
+        </g>
+        <g id="g7374" transform="matrix(1.94429,0,0,1.93331,308,28.0011)">
+            <path id="path7363" d="M25.92,27.74L25.92,21.82L44.08,21.82L44.08,40.69C44.08,42.41 42.75,43.14 41.22,43.42C38.42,43.965 35.593,44.355 32.75,44.59C30.48,44.77 28.14,45 21.98,45C12.71,45 0,39.81 0,23.06C0,6.31 12.71,0 22,0C36.14,-0.06 43.9,4.79 44,14.83L35.13,14.83C35.13,9.46 29.38,6.44 23.86,6.44C14.98,6.44 8.86,13.54 8.86,23.06C8.86,32.58 15,39.4 23.86,39.4C27.613,39.406 31.36,39.091 35.06,38.46L35.06,27.74L25.92,27.74Z" style="fill:white;fill-rule:nonzero;"/>
+            <path id="path7365" d="M59.55,44.13L50.89,44.13L50.89,0.84L69.81,0.84C82.81,0.84 87.21,6.84 87.21,11.98C87.21,17.46 85.07,21.35 81.58,22.66L81.58,22.78C85.89,23.64 86.76,27.78 88.67,36.04C89.355,38.83 90.32,41.544 91.55,44.14L80.76,44.14C79.933,41.381 79.265,38.576 78.76,35.74C77.51,29.83 76.76,26.62 73.39,26.61L59.55,26.61L59.55,44.13ZM59.55,20.13L69.22,20.13C75.5,20.13 78.22,17.45 77.99,12.6C77.85,9.28 74.77,7.36 69.22,7.36L59.55,7.36L59.55,20.13Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(153.999,0,0,153.999,0.291382,256.272)"><stop offset="0" style="stop-color:rgb(81,49,17);stop-opacity:1"/><stop offset="0.29" style="stop-color:rgb(80,49,17);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(102,62,20);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

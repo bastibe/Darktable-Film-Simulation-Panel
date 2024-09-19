@@ -1,106 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="512"
-   height="512"
-   viewBox="0 0 512 512"
-   version="1.1"
-   id="svg5"
-   xml:space="preserve"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="shadows-1.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="2.0058594"
-     inkscape:cx="254.50438"
-     inkscape:cy="218.60954"
-     inkscape:window-width="1876"
-     inkscape:window-height="2107"
-     inkscape:window-x="5716"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" /><defs
-     id="defs2" /><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"><rect
-       style="fill:#1f1f1f;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="rect25262"
-       x="42.266068"
-       y="75.699821"
-       width="0"
-       height="0"
-       rx="512"
-       ry="512" /><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
-       id="rect25474"
-       width="512"
-       height="512"
-       x="2.218922e-06"
-       y="3.0343815e-06"
-       rx="0"
-       ry="0" /><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:207.381px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-12.2034px;fill:#0f0f0f;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-       x="485.48593"
-       y="281.2193"
-       id="text3078-3-4-6-5"
-       transform="scale(0.82706003,1.2091021)"><tspan
-         sodipodi:role="line"
-         id="tspan5451-9-0-62"
-         x="485.48593"
-         y="281.2193"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:207.381px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f0f0f;fill-opacity:1;stroke-width:0;stroke-dasharray:none">1</tspan></text><g
-       id="g1055"><rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         id="rect25862"
-         width="310.56839"
-         height="327.29562"
-         x="13.840064"
-         y="92.352188"
-         ry="15.7678" /><rect
-         style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         id="rect25862-2"
-         width="284.65457"
-         height="148.4792"
-         x="26.796976"
-         y="102.94541"
-         ry="10.723305" /><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.349px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-8.9062px;fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="34.584011"
-         y="344.52701"
-         id="text3078-3-4-6"
-         transform="scale(0.88472721,1.1302919)"><tspan
-           sodipodi:role="line"
-           id="tspan5451-9-0"
-           x="34.584011"
-           y="344.52701"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fefefe;fill-opacity:1;stroke-width:0;stroke-dasharray:none">Tone</tspan></text><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250.445px;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-14.7375px;fill:#010101;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="40.437363"
-         y="346.85516"
-         id="text3078-3-4-6-2"
-         transform="scale(1.4640011,0.6830596)"><tspan
-           sodipodi:role="line"
-           id="tspan5451-9-0-6"
-           x="40.437363"
-           y="346.85516"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250.445px;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:1;stroke-width:0;stroke-dasharray:none">S</tspan></text></g><path
-       d="m 339.32925,267.02871 v -17.85399 h 75.13741 v 17.85399 z"
-       style="font-size:250.445px;font-family:'Lohit Kannada';-inkscape-font-specification:'Lohit Kannada, Normal';letter-spacing:-60px;fill:#000000;stroke:#000000;stroke-width:0"
-       id="path26452" /></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Layer-1" serif:id="Layer 1" transform="matrix(0.09375,0,0,0.09375,0,0)">
+        <rect id="rect25474" x="0" y="0" width="512" height="512" style="fill:white;"/>
+        <g transform="matrix(0.82706,0,0,1.2091,401.526,340.023)">
+            <g id="text3078-3-4-6-5">
+                <text x="0px" y="0px" style="font-family:'Helvetica';font-size:207.381px;fill:rgb(15,15,15);">1</text>
+            </g>
+        </g>
+        <g id="g1055">
+            <rect id="rect25862" x="13.84" y="92.352" width="310.568" height="327.296"/>
+            <rect id="rect25862-2" x="26.797" y="102.945" width="284.655" height="148.479" style="fill:rgb(254,254,254);"/>
+            <g transform="matrix(0.884727,0,0,1.13029,30.5974,389.416)">
+                <g id="text3078-3-4-6">
+                    <text x="0px" y="0px" style="font-family:'Helvetica';font-size:151.349px;fill:rgb(254,254,254);">T<tspan x="62.195px 132.889px 203.582px " y="0px 0px 0px ">one</tspan></text>
+                </g>
+            </g>
+            <g transform="matrix(1.464,0,0,0.68306,59.2003,236.923)">
+                <g id="text3078-3-4-6-2">
+                    <text x="0px" y="0px" style="font-family:'Helvetica';font-size:250.445px;fill:rgb(1,1,1);">S</text>
+                </g>
+            </g>
+        </g>
+        <rect id="path26452" x="339.329" y="249.175" width="75.137" height="17.854" style="fill-rule:nonzero;"/>
+    </g>
+</svg>
