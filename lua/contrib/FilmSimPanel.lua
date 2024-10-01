@@ -192,7 +192,7 @@ darktable.register_lib(
             darktable.new_widget("button") {
                 tooltip = "DR100",
                 name = "film_sim_panel_dr100_button",
-                image = darktable.configuration.config_dir .. "/icons/dr100.svg",
+                image = darktable.configuration.config_dir .. "/icons/DR100.svg",
                 clicked_callback = function(source)
                     apply_style_to_selection("DR100")
                 end
@@ -200,7 +200,7 @@ darktable.register_lib(
             darktable.new_widget("button") {
                 tooltip = "DR200",
                 name = "film_sim_panel_dr200_button",
-                image = darktable.configuration.config_dir .. "/icons/dr200.svg",
+                image = darktable.configuration.config_dir .. "/icons/DR200.svg",
                 clicked_callback = function(source)
                     apply_style_to_selection("DR200")
                 end
@@ -208,7 +208,7 @@ darktable.register_lib(
             darktable.new_widget("button") {
                 tooltip = "DR400",
                 name = "film_sim_panel_dr400_button",
-                image = darktable.configuration.config_dir .. "/icons/dr400.svg",
+                image = darktable.configuration.config_dir .. "/icons/DR400.svg",
                 clicked_callback = function(source)
                     apply_style_to_selection("DR400")
                 end
